@@ -1,0 +1,8 @@
+        abcdefghijklmnopqrstuvwxyz
+cypher= hijklmnopqrstuvwxyzabcdefg
+
+Ran the alphabet through a Caersar cipher offset by 7
+
+P svcl jyfwavnyhwof!
+
+I love cryptology!
